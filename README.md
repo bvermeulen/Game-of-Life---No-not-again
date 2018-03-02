@@ -13,13 +13,13 @@ Use:
    
  Following input is possible:
  
- Space  - pause
- b      - set border to blue
- o      - set border to orange
- c      - clears the field
- l      - load patternfile
- s      - save patternfile ! note it will overwrite the original patternfile
- Escape - leave program
+ Space  = pause or run
+ b      = set border to blue
+ o      = set border to orange
+ c      = clears the field
+ l      = load patternfile
+ s      = save patternfile ! note it will overwrite the original patternfile
+ Escape = leave program
 
  if mouse if clicked inside the action window then a new cell will either be created or deleted depending if cell was life or not
  
