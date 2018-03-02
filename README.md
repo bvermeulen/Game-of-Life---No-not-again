@@ -2,14 +2,14 @@
 a finger exercise to learn Python
 
 An implementation of Conway Game of Life pure to learn Python classes, definitions, pygame
-Core was borrowed from redevined/conway
+core was borrowed from redevined/conway
 
 Use:
  
  python GOL_exercise [configfile [patternfile]]
  
-   - note if no first argument is given the program uses the default file data/config.txt
-   - if no second argument is given the program uses the patternfile as defined in the configfile
+   - note if no first argument is given the program uses the default config file data/config.txt
+   - if no second argument is given the program uses the patternfile as defined in the config file
    
  Following input is possible:
  
@@ -21,7 +21,7 @@ Use:
  s      : save patternfile ! note it will overwrite the original patternfile
  Escape : leave program
 
- if mouse if clicked inside the action window then a new cell will either be created or deleted depending if cell was life or not
+If mouse is clicked inside the action window then a new cell will either be created or deleted depending if the cell was life or not
  
  Author: Bruno Vermeulen
  Email: bruno_vermeulen2001yahoo.com
