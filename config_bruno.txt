@@ -1,8 +1,0 @@
-pattern file   : data/pattern.txt    
-frames/second  : 15
-cells x        : 60
-cells y        : 40
-cell dim x     : 10
-cell dim y     : 10
-survival values: 2 3
-birth values   : 3
