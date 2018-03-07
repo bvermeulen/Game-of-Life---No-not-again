@@ -8,6 +8,10 @@ Use:
  
  python GOL_exercise [configfile [patternfile]]
  
+or for python 3.6
+
+python GOL_exercise_p36 [configfile [patternfile]]
+ 
    - note if no first argument is given the program uses the default config file data/config.txt
    - if no second argument is given the program uses the patternfile as defined in the config file
    
