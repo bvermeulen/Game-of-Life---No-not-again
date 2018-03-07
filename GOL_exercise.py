@@ -3,7 +3,7 @@
      
         Conway's Game of Life                   
                                                
-        python version 3.6                      
+        python version 2.7                      
                                                
         Simulation of a two-dimensional         
         Cellular Automaton. Several             
