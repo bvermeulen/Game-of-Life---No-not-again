@@ -9,7 +9,7 @@
 Author: Bruno Vermeulen<br /> 
 Email: bruno_vermeulen2001yahoo.com<br />
 
-##Use:
+## Use:
 
 for python 2.7 use:
 ```sh 
@@ -21,7 +21,7 @@ python3 GOL_exercise_p36 [configfile [patternfile]]
 ```
 * note if no first argument is given the program uses the default config file data/config.txt
 * if no second argument is given the program uses the patternfile as defined in the config file
-   
+
 Following input is possible:
 * Space  : pause or run
 * b      : set border to blue
