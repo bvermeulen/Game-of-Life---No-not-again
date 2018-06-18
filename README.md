@@ -7,15 +7,15 @@
 *a finger exercise to learn Python*
 
 Author: Bruno Vermeulen<br /> 
-Email: bruno_vermeulen2001yahoo.com<br />
+Email: bruno_vermeulen2001@yahoo.com<br />
 
 ## Use:
 
-for python 2.7 use:
+for python 2.7:
 ```sh 
  python GOL_exercise [configfile [patternfile]]
 ``` 
-for python 3.6
+for python 3.6:
 ```sh
 python3 GOL_exercise_p36 [configfile [patternfile]]
 ```
