@@ -3,11 +3,14 @@
 >core was borrowed from redevined/conway
 
 ![](GOL_screen_shot.png)
+
 *a finger exercise to learn Python*
 
 Author: Bruno Vermeulen<br /> 
 Email: bruno_vermeulen2001yahoo.com<br />
+
 ##Use:
+
 for python 2.7 use:
 ```sh 
  python GOL_exercise [configfile [patternfile]]
